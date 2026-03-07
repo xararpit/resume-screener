@@ -1,0 +1,6 @@
+PyPDF2==3.0.1
+scikit-learn==1.8.0
+streamlit==1.52.2
+spacy==3.8.11
+pandas==2.3.3
+en_core_web_md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.8.0/en_core_web_md-3.8.0-py3-none-any.whl
